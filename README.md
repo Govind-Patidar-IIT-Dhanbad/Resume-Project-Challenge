@@ -1,1 +1,1 @@
-# CCodebasics-Resume-Project-Challenge
+# Codebasics-Resume-Project-Challenge
